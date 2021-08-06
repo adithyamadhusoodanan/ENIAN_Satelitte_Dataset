@@ -1,0 +1,8 @@
+tower
+subst
+solar
+wind
+hydro
+coal
+therm
+nuclr
